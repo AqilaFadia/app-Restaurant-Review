@@ -7,7 +7,7 @@ This project is to develop a model that can automatically predict positive or ne
 # Deployment
 
 # Slide and Presentation
- * Link Presentation: here
+ * Link Presentation: [here](https://docs.google.com/presentation/d/121nI6YNe-woAutYGyyBjGR2QdzpeIvh0/edit?usp=sharing&ouid=106988812731896889265&rtpof=true&sd=true)
  * Link Video Presentation: here
  * Link Article: here
  
