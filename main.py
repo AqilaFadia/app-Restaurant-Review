@@ -7,7 +7,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 
 # Load the pre-trained model
-model = load_model('model.h5')
+model = load_model('./model/model.h5')
 
 # Load word_index from the saved JSON file
 with open('word_index.json', 'r') as fp:
