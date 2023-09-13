@@ -5,7 +5,7 @@ This APP for Review Negative or Positive Comments Restaurant
 This project is to develop a model that can automatically predict positive or negative sentiments or reviews related to a restaurant. The ultimate goal is to help restaurant owners, managers, and stakeholders in the culinary industry understand their customers' feedback more efficiently. With this model, we can identify and categorize customer reviews, allowing restaurant businesses to respond more quickly to customer feedback, improve service, and enhance the food experience offered.
 
 # Deployment
-
+Link Deployment: [here](https://app-restaurant-review-hmphowipvb9zcanburyxvz.streamlit.app/)
 # Slide and Presentation
  * Link Presentation: [here](https://docs.google.com/presentation/d/121nI6YNe-woAutYGyyBjGR2QdzpeIvh0/edit?usp=sharing&ouid=106988812731896889265&rtpof=true&sd=true)
  * Link Video Presentation: here
