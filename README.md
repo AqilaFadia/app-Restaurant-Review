@@ -9,7 +9,7 @@ Link Deployment: [here](https://app-restaurant-review-hmphowipvb9zcanburyxvz.str
 # Slide and Presentation
  * Link Presentation: [here](https://docs.google.com/presentation/d/121nI6YNe-woAutYGyyBjGR2QdzpeIvh0/edit?usp=sharing&ouid=106988812731896889265&rtpof=true&sd=true)
  * Link Video Presentation: here
- * Link Article: here
+ * Link Article: [here](https://medium.com/ai-in-plain-english/natural-language-processing-nlp-restaurant-review-sentiment-analysis-with-nltk-dcf1986a4989)
  
 # Data Understanding
 This dataset was created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015 contains sentences labeled with a positive or negative sentiment. The score is either 1 (for positive) or 0 (for negative) The sentences come from three different websites/fields:
